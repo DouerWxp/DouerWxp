@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning MIS
 - 🔭 I’m a MA in Warwick Business School
 - 📫 How to reach me: Xiuping.Wu@warwick.ac.uk
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouerWxp&layout=compact&show_icons=true&theme=radical)
 
 ![DouerWxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouerWxp&show_icons=true&theme=radical)
